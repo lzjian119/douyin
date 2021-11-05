@@ -1,0 +1,15 @@
+{
+    "name": "zykd/douyin",
+    "autoload": {
+        "psr-4": {
+            "Zykd\\Douyin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lzjian119",
+            "email": "lzjian119@163.com"
+        }
+    ],
+    "require": {}
+}
